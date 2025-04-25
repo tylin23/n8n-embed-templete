@@ -1,1 +1,4 @@
-# n8n-fb-post-with-img
+# n8n-embed-templete
+
+##Workflow preview web component
+[https://n8n-io.github.io/n8n-demo-webcomponent/](url)
